@@ -5,10 +5,10 @@
 - 📫 How to reach me: avitorvilela@gmail.com or my LinkedIn profile: www.linkedin.com/in/avitorvilela
 
 <div align="center">
-  <a href="https://github.com/avitorvilela">
-  <img height="180px" src="https://github-readme-stats.vercel.app/api?theme=dark&username=avitorvilela"/>
-  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?theme=dark&username=avitorvilela"/>
-</div>
+  <img height="160px" src="https://github-readme-stats.vercel.app/api?theme=nord&username=avitorvilela"/>
+  <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?theme=nord&username=avitorvilela"/>
+</div> 
+
 
 <hr>
   

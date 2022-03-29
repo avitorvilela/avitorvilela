@@ -4,9 +4,11 @@
 - 🌱 I’m currently learning Data Science and Machine Learning
 - 📫 How to reach me: avitorvilela@gmail.com or my LinkedIn profile: www.linkedin.com/in/avitorvilela
 
+
+
 <div>
   <img height="180px" src="https://github-readme-stats.vercel.app/api?username=avitorvilela"/>
-  <img height="220px" width="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=avitorvilela"/>
+  <img height="180px" width="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=avitorvilela"/>
 </div> 
 
 <hr>

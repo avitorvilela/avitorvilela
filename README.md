@@ -5,9 +5,9 @@
 - 📫 How to reach me: avitorvilela@gmail.com or my LinkedIn profile: www.linkedin.com/in/avitorvilela
 
 <div>
-  <img height="140px" src="https://github-readme-stats.vercel.app/api?theme=nord&username=avitorvilela"/>
-  <img height="140px" src="https://github-readme-stats.vercel.app/api/top-langs/?theme=nord&username=avitorvilela"/>
-</div>
+  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=avitorvilela"/>
+  <img height="220px" width="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=avitorvilela"/>
+</div> 
 
 <hr>
   
